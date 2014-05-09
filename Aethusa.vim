@@ -10,7 +10,7 @@ endif
 let g:colors_name = "Aethusa"
 
 hi Cursor ctermfg=59 ctermbg=231 cterm=NONE guifg=#313c50 guibg=#f8f8f0 gui=NONE
-hi Visual ctermfg=NONE ctermbg=237 cterm=NONE guifg=NONE guibg=#35363b gui=NONE
+hi Visual ctermfg=NONE ctermbg=237 cterm=NONE guifg=NONE guibg=#454a5d gui=NONE
 hi CursorLine ctermfg=NONE ctermbg=237 cterm=NONE guifg=NONE guibg=#414b5e gui=NONE
 hi CursorColumn ctermfg=NONE ctermbg=237 cterm=NONE guifg=NONE guibg=#414b5e gui=NONE
 hi ColorColumn ctermfg=NONE ctermbg=237 cterm=NONE guifg=NONE guibg=#414b5e gui=NONE
@@ -20,7 +20,7 @@ hi MatchParen ctermfg=30 ctermbg=237 cterm=underline guifg=#009193 guibg=NONE gu
 hi StatusLine ctermfg=188 ctermbg=60 cterm=bold guifg=#d5d6db guibg=#616978 gui=bold
 hi StatusLineNC ctermfg=188 ctermbg=60 cterm=NONE guifg=#d5d6db guibg=#616978 gui=NONE
 hi Pmenu ctermfg=113 ctermbg=237 cterm=NONE guifg=#7ad149 guibg=NONE gui=NONE
-hi PmenuSel ctermfg=NONE ctermbg=237 cterm=NONE guifg=NONE guibg=#35363b gui=NONE
+hi PmenuSel ctermfg=NONE ctermbg=237 cterm=NONE guifg=NONE guibg=#454a5d gui=NONE
 hi IncSearch ctermfg=59 ctermbg=186 cterm=NONE guifg=#313c50 guibg=#d1d97a gui=NONE
 hi Search ctermfg=NONE ctermbg=237 cterm=underline guifg=NONE guibg=NONE gui=underline
 hi Directory ctermfg=67 ctermbg=237 cterm=NONE guifg=#518cb5 guibg=NONE gui=NONE
